@@ -13,3 +13,5 @@
 Maj bjn 1
 
 Maj Bjn 2
+
+Maj Bjn 4 (fix the typo)
